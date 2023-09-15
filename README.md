@@ -14,4 +14,5 @@ This troll pack includes:
 Update Log:
 
 Update 1.0 First Publish, added 1.1~1.5
+
 Update 1.1 Icon folders are in the "icon" folder, allowing users to freely change icons for the trap's shortcut
