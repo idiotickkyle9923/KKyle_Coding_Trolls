@@ -11,8 +11,6 @@ This troll pack includes:
 
 1.5 Fake Virus
 
-
-
 ! Please follow the instructions or the troll will not work
 1. Extract the main troll pack folder and move your sub-pack(pack 1.1, pack 1.2) into a USB
 2. Move the sub-pack into "C:\"(It is necessary)
